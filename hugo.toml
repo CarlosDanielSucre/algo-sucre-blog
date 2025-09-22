@@ -1,4 +1,4 @@
-baseURL = "https://carlosdanielsucre.github.io/algo-sucre-blog/"
+baseURL = "https://algosucreblog.netlify.app/"
 languageCode = "es"
 title = "Algo Sucre"
 theme = "github.com/imfing/hextra"
