@@ -7,3 +7,4 @@ draft: false
 # Hola Mundo
 
 Este es mi primer post usando Hugo + Hextra.
+Esta es una prueba en el primer post
