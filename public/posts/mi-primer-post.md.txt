@@ -1,9 +1,0 @@
----
-title: "Mi primer post"
-date: 2025-09-22
-description: "Probando Hugo + Hextra"
----
-
-# Hola Mundo
-
-Este es mi primer post usando Hugo + Hextra.
