@@ -13,6 +13,7 @@ enableRobotsTXT = true
   showReadingTime = true
   highlightStyle = "monokai"
   darkMode = true
+  customJS = ["/js/search.js"]
 
 [pagination]
   pagerSize = 10
@@ -37,4 +38,5 @@ enableRobotsTXT = true
     name = "Contact"
     url = "/contact/"
     weight = 3
+
 
