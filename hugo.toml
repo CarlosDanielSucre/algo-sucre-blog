@@ -1,7 +1,7 @@
-baseURL = "https://carlosdanielsucre.github.io/algo-sucre-blog/""
+baseURL = "https://carlosdanielsucre.github.io/algo-sucre-blog/"
 languageCode = "es"
 title = "Algo Sucre"
-theme = "hextra"
+theme = "github.com/imfing/hextra"
 
 # Opciones de Hextra
 enableRobotsTXT = true
