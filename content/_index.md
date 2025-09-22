@@ -10,5 +10,4 @@ Aquí irán los posts y artículos.
 ## 2025 - September
 
 - [Primer post](/posts/primer-post/)
-
-drfd
+- [Segundo post](/posts/segundo-post/)
