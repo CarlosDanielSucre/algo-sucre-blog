@@ -1,0 +1,18 @@
+baseURL = "https://carlosdanielsucre.github.io/algo-sucre-blog/"
+languageCode = "es"
+title = "Algo Sucre"
+theme = "github.com/imfing/hextra"
+
+# Opciones de Hextra
+enableRobotsTXT = true
+
+[params]
+  description = "Blog usando Hugo + Hextra"
+  author = "Sucre"
+  showDate = true
+  showReadingTime = true
+  highlightStyle = "monokai"
+  darkMode = true
+
+[pagination]
+  pagerSize = 10
