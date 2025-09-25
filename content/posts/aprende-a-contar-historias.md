@@ -1,10 +1,8 @@
 ---
-title: "Mi primer post"
+title: "Aprende a contar historias"
 date: 2025-09-22
-description: "Primer post usando Hugo + Hextra"
+description: "Todos tenemos historias que contar, el hecho de que no pareza interesante es por que no sabemos como contarlas."
 draft: false
 ---
-# Hola Mundo
+---
 
-Este es mi primer post usando Hugo + Hextra.
-Esta es una prueba en el primer post
