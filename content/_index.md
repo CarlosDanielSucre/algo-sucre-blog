@@ -9,6 +9,6 @@ Por ahora no tengo un espacio para comentarios, pero si quieres compartir alguna
 ## 2025 - September
 
 - [Aprende a contar historias](/posts/aprende-a-contar-historias/)
-- [Segundo post](/posts/segundo-post/)
+- [El Primer Programa de computadoras](/posts/primer-programa-de-computadoras/)
 
 ## Ideas
