@@ -1,6 +1,7 @@
 ---
 title: "Algo Sucre Blog"
 ---
+---
 
 Organicé mis posts por fecha para que puedas seguir conmigo esta jornada, casi como si fuera un diario abierto. Algunos son más técnicos, otros cuentan anécdotas, hay historias que valen como lecciones, y hasta momentos más cómicos para respirar no tan en serio. Al final, todo compone el mismo viaje.
 
