@@ -11,7 +11,7 @@ Hay **demasiada desinformación en redes** y personas sensacionalistas que inten
 
 Puntos que seran tratados en la Investigación:
 
- - [Identificar el Mito.](/identificar-el-mito)
+ - [Identificar el Mito.](##identificar-el-mito)
  - Cómo nace la inteligencia artificial.
  - Tipos de IA.
  - Qué se necesita para crear una IA.
