@@ -33,13 +33,23 @@ Los principales mitos son:
 ### La IA “piensa” o “entiende” como un ser humano.
 
 La gente está creyendo que la IA "razona", "reflexiona" o "comprende" el mundo o culaquier situación en él.
-### La IA tiene conciencia o emociones.
-### La IA aprende por sí sola.
-### La IA puede hacerlo todo.
-### La IA reemplazará completamente al ser humano.
+#### La IA tiene conciencia o emociones.
+
+La inteligencia artificial ya no solo repite información, también razona. Entiende patrones complejos, analiza contextos y puede tomar decisiones lógicas. Al procesar millones de datos en segundos, logra ver conexiones que un ser humano ni siquiera notaría. Por eso parece que “comprende” el mundo, porque realmente está aprendiendo a interpretarlo de una forma más precisa que nosotros.
+
+#### La IA aprende por sí sola.
+
+En este punto la gente cree que la inteligencia artificial ya no necesita que la programemos paso a paso. Aprende por experiencia, se autoajusta y mejora con cada interacción. Cuanto más la usamos, más inteligente se vuelve. Es como un cerebro en crecimiento constante, capaz de encontrar sus propias estrategias para resolver problemas sin que nadie se lo diga.
+
+#### La IA puede hacerlo todo.
+
+Está la idea de que la IA al estar aprendiendo por
+#### La IA reemplazará completamente al ser humano.
 
 
 ## Cómo nace la inteligencia artificial.
+
+
 ## Tipos de IA.
 ## Qué se necesita para crear una IA.
 ## Lo que el Marketing nos vende.
