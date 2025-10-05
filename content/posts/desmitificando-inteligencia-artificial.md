@@ -24,6 +24,19 @@ Puntos que seran tratados en la Investigación:
 
 ## Identificar el Mito.
 
+La inteligencia artificial surge como una herramienta de productividad que promete llevar la forma en la que trabajamos al próximo nivel de eficiencia, dedicandonos menos al trabajo repetitivo y enfocandonos mas en lo creativo o en la solución de problema. Hasta ahí todo bien. 
+
+El verdadero problema es cuando comenzamos a divinizar la IA atribuyendole poderes que no posee y esto se debe en su mayoria a la gran cantidad de mitos que han surgido entorno a ella, llegando incluso a pensar en un futuro dia del juicio con "Skynet" al comando.
+
+Los principales mitos son:
+
+### La IA “piensa” o “entiende” como un ser humano.
+
+La gente está creyendo que la IA "razona", "reflexiona" o "comprende" el mundo o culaquier situación en él.
+### La IA tiene conciencia o emociones.
+### La IA aprende por sí sola.
+### La IA puede hacerlo todo.
+### La IA reemplazará completamente al ser humano.
 
 
 ## Cómo nace la inteligencia artificial.
