@@ -145,8 +145,8 @@ algosucreblog/
 ```
 ## Checklist para Contribuciones
 
-[]Probé los cambios localmente (Docker o instalación manual)
-[]Generé el índice (./scripts/dev.sh generate-index)
-[]Verifiqué que el sitio funciona correctamente
-[]Seguí las convenciones del proyecto
-[]Documenté cualquier cambio significativo
+- [ ] Probé los cambios localmente (Docker o instalación manual)
+- [ ] Generé el índice (./scripts/dev.sh generate-index)
+- [ ] Verifiqué que el sitio funciona correctamente
+- [ ] Seguí las convenciones del proyecto
+- [ ] Documenté cualquier cambio significativo
