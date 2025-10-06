@@ -7,12 +7,9 @@ Puedes consultar el repositorio original del template para más información.
 Acepto pull requests, pero evita realizar cambios masivos: solo pequeñas mejoras o correcciones son bienvenidas.
 
 ## Desarrollo Local
-
 ### Pre-requisitos
-
 **Opción recomendada**: Docker + Docker Compose
 También puedes instalar las dependencias manualmente si lo prefieres.
-
 #### Con Docker
  - Docker
  - Docker Compose
@@ -150,3 +147,16 @@ algosucreblog/
 - [ ] Verifiqué que el sitio funciona correctamente
 - [ ] Seguí las convenciones del proyecto
 - [ ] Documenté cualquier cambio significativo
+
+## Directrices de Contribución
+
+- Mantén los cambios pequeños y enfocados
+- Prueba siempre antes de enviar
+- Usa mensajes de commit descriptivos
+- Respeta el estilo del código existente
+- Para cambios grandes, abre primero una issue
+
+## Licencia
+
+**Licencia:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Este trabajo está licenciado bajo una licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional**.
