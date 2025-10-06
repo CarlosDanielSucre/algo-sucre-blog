@@ -16,10 +16,10 @@ Puntos que seran tratados en la Investigación:
  - [Tipos de IA.](#Tipos-de-IA)
  - [Qué se necesita para crear una IA.](#Que-se-necesita-para-crear-una-IA)
  - [Lo que el Marketing nos vende.](#Lo-que-el-Marketing-nos-vende)
- - [Es realmente una inteligencia?](#Es-realmente-una-inteligencia?)
+ - [Es realmente una inteligencia?](#Es-realmente-una-inteligencia)
  - [Límites de la IA.](#Límites-de-la-IA)
  - [Límites del hardware.](#Límites-del-hardware)
- - [Conclusión.](#Conclusión.)
+ - [Conclusión.](#Conclusion)
 
 
 ## Identificar el Mito.
