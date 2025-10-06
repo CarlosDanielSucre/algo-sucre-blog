@@ -21,6 +21,7 @@ Puntos que seran tratados en la Investigación:
  - [Límites del hardware.](#Límites-del-hardware)
  - [Conclusión.](#Conclusión)
 
+Mito ver algo no es nada, debido al avanze de los videos hechos por IA estos van a perder valor penal o judicial.
 
 ## Identificar el Mito.
 
