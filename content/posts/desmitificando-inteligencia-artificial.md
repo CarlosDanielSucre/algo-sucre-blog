@@ -47,6 +47,8 @@ En este punto la gente cree que la inteligencia artificial ya no necesita que la
 Está la idea de que la IA al estar aprendiendo por
 #### - La IA reemplazará completamente al ser humano.
 
+La IA está convirtiéndose en sustituta total del humano.
+Cada cosa que hacíamos, cada tarea, cada habilidad — ya sea analizar datos, diagnosticar enfermedades, pintar cuadros, enseñar, escribir discursos, hasta inspirar emociones — la IA lo está aprendiendo, perfeccionando, replicando.
 
 ## Cómo nace la inteligencia artificial.
 
