@@ -13,36 +13,27 @@ También puedes instalar las dependencias manualmente si lo prefieres.
 #### Con Docker
  - Docker
  - Docker Compose
-
 #### Instalación Local (sin Docker)
  - Hugo (versión extendida)
  - Go
  - Ruby
  - Git
-
 ### Usando Docker
-
 ### 1. Clone el repositorio
-
 ```bash
 git clone https://github.com/CarlosDanielSucre/algosucreblog.git
 cd algosucreblog
 ```
-
 #### 2. Inicia el entorno de desarrollo:
 
 ```bash
 ./scripts/dev.sh start
 ```
-
 #### 3. Accede al blog localmente:
-
 ```bash
 http://localhost:1313
 ```
-
 #### Comandos útiles
-
 ```bash
 ./scripts/dev.sh logs           # Ver logs
 ./scripts/dev.sh stop           # Detener el entorno
@@ -50,9 +41,7 @@ http://localhost:1313
 ./scripts/dev.sh generate-index # Generar índice de posts
 ./scripts/dev.sh help           # Mostrar todos los comandos
 ```
-
 ### Instalación Local (sin Docker)
-
 ```bash
 # Clonar el repositorio
 git clone https://github.com/CarlosDanielSucre/algosucreblog.git
@@ -71,28 +60,20 @@ hugo
 # Ejecutar servidor local
 hugo server --logLevel debug --disableFastRender -p 1313
 ```
-
 ## Cómo Contribuir
-
 ### 1. Fork y Clone
-
 - Haz un fork del repositorio
 - Clona tu fork localmente
-
 ### 2. Configura tu entorno
-
 - Usa Docker (recomendado) o instala las dependencias localmente
 - Sigue las instrucciones anteriores
-
 ### 3. Realiza tus cambios
-
 ```
 git checkout -b feature/nueva-funcionalidad
 # Realiza tus modificaciones
 ./scripts/dev.sh start   # o hugo server para probar localmente
 git commit -m "Agrega nueva funcionalidad"
 ```
-
 ### 4. Crear nuevos posts
 
  **Con Docker**:
@@ -100,7 +81,6 @@ git commit -m "Agrega nueva funcionalidad"
 ./scripts/dev.sh new-post "Título del Post"
 
 ```
-
  **Manual**:
 ```
 mkdir -p content/2025/10/06/mi-post
