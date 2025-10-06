@@ -51,7 +51,9 @@ La IA está convirtiéndose en sustituta total del humano.
 Cada cosa que hacíamos, cada tarea, cada habilidad — ya sea analizar datos, diagnosticar enfermedades, pintar cuadros, enseñar, escribir discursos, hasta inspirar emociones — la IA lo está aprendiendo, perfeccionando, replicando.
 
 Uno de los principales defensores de estos mitos es Yoshua Bengio (https://es.wikipedia.org/wiki/Yoshua_Bengio), él tiene varios articulos en los que expresa su temor por el futuro de la Inteligencia artificial:  
+  
   [Implications of Artificial General Intelligence on National and International Security](https://yoshuabengio.org/2024/10/30/implications-of-artificial-general-intelligence-on-national-and-international-security/?utm_source=chatgpt.com)   
+    
   [Los sistemas de IA podrían “volverse contra los humanos”: el pionero tecnológico Yoshua Bengio advierte sobre los riesgos de la inteligencia artificial](https://www.cnbc.com/2024/11/21/will-ai-replace-humans-yoshua-bengio-warns-of-artificial-intelligence-risks.html?utm_source=chatgpt.com)
 
 ## Cómo nace la inteligencia artificial.
