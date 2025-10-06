@@ -25,7 +25,7 @@ Mito ver algo no es nada, debido al avanze de los videos hechos por IA estos van
 
 ## Identificar el Mito.
 
-La inteligencia artificial surge como una herramienta de productividad que promete llevar la forma en la que trabajamos al próximo nivel de eficiencia, dedicandonos menos al trabajo repetitivo y enfocandonos mas en lo creativo o en la solución de problema. Hasta ahí todo bien. 
+La inteligencia artificial es una herramienta de productividad que promete llevar la forma en la que trabajamos al próximo nivel de eficiencia, dedicandonos menos al trabajo repetitivo y enfocandonos mas en lo creativo o en la solución de problema. Hasta ahí todo bien. 
 
 El verdadero problema es cuando comenzamos a divinizar la IA atribuyendole poderes que no posee y esto se debe en su mayoria a la gran cantidad de mitos que han surgido entorno a ella, llegando incluso a pensar en un futuro dia del juicio con "Skynet" al comando.
 
