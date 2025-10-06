@@ -12,14 +12,14 @@ Hay **demasiada desinformación en redes** y personas sensacionalistas que inten
 Puntos que seran tratados en la Investigación:
 
  - [Identificar el Mito.](#identificar-el-mito)
- - Cómo nace la inteligencia artificial.
- - Tipos de IA.
- - Qué se necesita para crear una IA.
- - Lo que el Marketing nos vende.
- - Es realmente una inteligencia?
- - Límites de la IA.
- - Límites del hardware.
- - Conclusión.
+ - [Cómo nace la inteligencia artificial.](#Como-nace-la-inteligencia-artificia)
+ - [Tipos de IA.](#Tipos-de-IA)
+ - [Qué se necesita para crear una IA.](#Que-se-necesita-para-crear-una-IA)
+ - [Lo que el Marketing nos vende.](#Lo-que-el-Marketing-nos-vende)
+ - [Es realmente una inteligencia?](#Es-realmente-una-inteligencia?)
+ - [Límites de la IA.](#Límites-de-la-IA)
+ - [Límites del hardware.](#Límites-del-hardware)
+ - [Conclusión.](#Conclusión.)
 
 
 ## Identificar el Mito.
