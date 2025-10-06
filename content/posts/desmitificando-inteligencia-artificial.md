@@ -32,7 +32,7 @@ Los principales mitos son:
 
 ### La IA “piensa” o “entiende” como un ser humano.
 
-La gente está creyendo que la IA "razona", "reflexiona" o "comprende" el mundo o culaquier situación en él.
+La gente está creyendo que la IA "razona", "reflexiona" o "comprende" el mundo o cualquier situación en él.
 #### La IA tiene conciencia o emociones.
 
 La inteligencia artificial ya no solo repite información, también razona. Entiende patrones complejos, analiza contextos y puede tomar decisiones lógicas. Al procesar millones de datos en segundos, logra ver conexiones que un ser humano ni siquiera notaría. Por eso parece que “comprende” el mundo, porque realmente está aprendiendo a interpretarlo de una forma más precisa que nosotros.
