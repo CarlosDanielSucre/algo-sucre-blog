@@ -23,7 +23,7 @@ También puedes instalar las dependencias manualmente si lo prefieres.
  - Ruby
  - Git
 
-## Usando Docker
+### Usando Docker
 
 ### 1. Clone el repositorio
 
@@ -32,3 +32,45 @@ git clone https://github.com/CarlosDanielSucre/algosucreblog.git
 cd algosucreblog
 ```
 
+#### 2. Inicia el entorno de desarrollo:
+
+```bash
+./scripts/dev.sh start
+```
+
+#### 3. Accede al blog localmente:
+
+```bash
+http://localhost:1313
+```
+
+#### Comandos útiles
+
+```bash
+./scripts/dev.sh logs           # Ver logs
+./scripts/dev.sh stop           # Detener el entorno
+./scripts/dev.sh new-post       # Crear un nuevo post
+./scripts/dev.sh generate-index # Generar índice de posts
+./scripts/dev.sh help           # Mostrar todos los comandos
+```
+
+### Instalación Local (sin Docker)
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/CarlosDanielSucre/algosucreblog.git
+cd algosucreblog
+
+# Crear nuevo contenido
+nvim content/2025/10/06/mi-post/index.md
+
+# Generar índice
+cd content
+./scripts/generate_index.rb
+
+# Construir el sitio
+hugo
+
+# Ejecutar servidor local
+hugo server --logLevel debug --disableFastRender -p 1313
+```
